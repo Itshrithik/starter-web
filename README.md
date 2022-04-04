@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 Adding a line for rebasing example,then more changes from myfeature branch.
+NOthing just testing some functions.
 ## Introduction
 This is to introduce the working of git.
 

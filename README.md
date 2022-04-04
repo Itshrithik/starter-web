@@ -14,3 +14,4 @@ This is to show how deploying works in git.
 
 
 ## How To Contribute
+This is how to contribute.

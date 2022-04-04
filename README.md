@@ -17,4 +17,4 @@ This is to show how deploying works in git.
 ## How To Contribute
 Hello there,This is how to contribute.
 
-2022 Git.TRaining
+2022 Git.TRaining.All rights reserved.

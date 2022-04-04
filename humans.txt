@@ -12,6 +12,6 @@
 	
 
 # TECHNOLOGY COLOPHON
-
+    jQuery,Python
     HTML5, CSS3
     jQuery, Modernizr
